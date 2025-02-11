@@ -1,0 +1,6 @@
+.env
+env
+data
+db
+_pycache_
+.gradio
